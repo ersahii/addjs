@@ -4,3 +4,9 @@ function add(){
 	return a +b ;
 }
 print(add());
+function sub(){
+	let a = 30;
+	let  b = 20;
+	return a - b ;
+}
+print(sub());
