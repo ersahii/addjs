@@ -11,3 +11,4 @@ function multiply(){
 	return a * b ;
 }
 console.log(multiply())
+// this is feature 4
