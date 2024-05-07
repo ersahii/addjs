@@ -11,3 +11,8 @@ function multiply(){
 	return a * b ;
 }
 console.log(multiply())
+function sub(){
+	return 20 -10;
+}
+console.log(sub());
+// this is feature 5
